@@ -2,9 +2,7 @@
 
 This program displays a simple message to the screen. Being able to run this program proved that I set up my integrated development environment, downloaded Python, and a compiler to work with Python correctly. I also learned some basic Python syntax such as print and how to type out a string statement.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Ta_M0UO2m1k)
 
 <br></br>
 
