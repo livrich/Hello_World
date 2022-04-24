@@ -4,7 +4,6 @@ This program displays a simple message to the screen. Being able to run this pro
 
 [Software Demo Video](https://youtu.be/Ta_M0UO2m1k)
 
-<br></br>
 
 # Development Environment
 
@@ -12,7 +11,6 @@ This program displays a simple message to the screen. Being able to run this pro
 * IDE: <b>Visual Studio Code</b>
 * Control Manager: <b>GitHub</b>
 
-<br></br>
 
 # Useful Websites
 
